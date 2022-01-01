@@ -1,4 +1,4 @@
-import {AlertIcon, ArrowRightIcon} from '@primer/octicons-react';
+import {AlertIcon} from '@primer/octicons-react';
 import {useTranslation} from 'react-i18next';
 
 function Banner(props) {
@@ -12,7 +12,7 @@ function Banner(props) {
         </div>
         <div className="content">
           {t(
-            'This is BETA version'
+            'This is a beta version'
           )}{' '}
         </div>
       </div>
