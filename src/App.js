@@ -27,24 +27,6 @@ const App = () => {
       showInNavbar: true,
     },
     {
-      pageLink: '/blog',
-      view: Blog,
-      displayName: 'Blog',
-      showInNavbar: true,
-    },
-    {
-      pageLink: '/volunteers',
-      view: Volunteers,
-      displayName: 'Volunteers',
-      showInNavbar: true,
-    },
-    {
-      pageLink: '/about',
-      view: About,
-      displayName: 'About',
-      showInNavbar: true,
-    },
-    {
       pageLink: '/state/:stateCode',
       view: State,
       displayName: 'State',

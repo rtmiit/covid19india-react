@@ -2,7 +2,7 @@
   "name": "covid19india",
   "version": "2.0.0",
   "private": true,
-  "homepage": "http://rtmiit.github.io/covid19india-react/",
+  "homepage": "https://rtmiit.github.io/",
   "dependencies": {
     "@primer/octicons-react": "^14.2.2",
     "@testing-library/jest-dom": "^5.14.1",

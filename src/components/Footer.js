@@ -39,42 +39,6 @@ function Footer() {
         >
           <Database />
         </a>
-
-        <a
-          href="https://t.me/covid19indiaorg"
-          className="telegram"
-          target="_blank"
-          rel="noopener noreferrer"
-        >
-          <Send />
-        </a>
-
-        <a
-          href="https://twitter.com/covid19indiaorg"
-          target="_blank"
-          rel="noopener noreferrer"
-          className="twitter"
-        >
-          <Twitter />
-        </a>
-
-        <a
-          href="https://instagram.com/covid19indiaorg"
-          target="_blank"
-          rel="noopener noreferrer"
-          className="instagram"
-        >
-          <Instagram />
-        </a>
-
-        <a
-          href="mailto:hello@covid19india.org"
-          className="mail"
-          target="_blank"
-          rel="noopener noreferrer"
-        >
-          <Mail />
-        </a>
       </div>
     </footer>
   );

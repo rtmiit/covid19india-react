@@ -12,19 +12,9 @@ function Banner(props) {
         </div>
         <div className="content">
           {t(
-            'After 18 months of daily updates, we stopped our operations on 31st October, 2021. You can only view data from January 2020 to October 2021 on this website.'
+            'This is BETA version'
           )}{' '}
         </div>
-        <a
-          href="https://blog.covid19india.org/2021/08/07/end"
-          rel="noreferrer"
-          target="_blank"
-        >
-          {t('Read more')}
-          <div className="arrow-right-icon">
-            <ArrowRightIcon size={16} />
-          </div>
-        </a>
       </div>
     </div>
   );
