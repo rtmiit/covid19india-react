@@ -11,9 +11,7 @@ function Banner(props) {
           <AlertIcon size={16} />
         </div>
         <div className="content">
-          {t(
-            'This is a beta version'
-          )}{' '}
+          {t('This is a beta version')}{' '}
         </div>
       </div>
     </div>
